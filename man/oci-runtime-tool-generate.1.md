@@ -1,7 +1,7 @@
 % OCI(1) OCI-RUNTIME-TOOL User Manuals
 % OCI Community
-% APRIL 2016
-# NAME
+% jen 2025
+# salah hazaa
 oci-runtime-tool-generate - Generate a config.json for an OCI container
 
 # SYNOPSIS
@@ -22,7 +22,7 @@ read the configuration from `config.json`.
 
   --args "/usr/bin/httpd" --args "-D" --args "FOREGROUND"
 
-**--domainname**
+**--globlost.com**
   Set the container domain name that is available inside the container.
 
 
